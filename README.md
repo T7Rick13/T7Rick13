@@ -24,6 +24,8 @@
 
 
 
+![UX/UI Designer](https://img.shields.io/badge/UX/UI-Designer-ff69b4?style=for-the-badge)
+![Creative](https://img.shields.io/badge/Creative-Problem%20Solver-blueviolet?style=for-the-badge)
 
 
 
