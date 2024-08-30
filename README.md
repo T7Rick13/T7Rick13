@@ -19,7 +19,7 @@
 </p>
 
   - 👀 I’m interested in ... UX/UI.
-- 🌱 I’m currently learning ... JavaScript, Cloud Computing, Frameworks
+- 🌱 I’m currently learning ... JavaScript and Frameworks
 - 💞️ I’m looking to collaborate on ... UX/UI
 
 
