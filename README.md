@@ -19,8 +19,8 @@
 </p>
 
   - 👀 I’m interested in ... UX/UI.
-- 🌱 I’m currently learning ... JavaScript and Frameworks
-- 💞️ I’m looking to collaborate on ... UX/UI
+- 🌱 I’m currently learning ... JavaScript, Python, Networking and UX/UI Dynamic projects for Websites.
+- 💞️ I’m looking to collaborate on ... UX/UI, Networking.
 
 
 
