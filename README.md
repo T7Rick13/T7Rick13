@@ -32,6 +32,8 @@
 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T7Rick13&layout=compact&langs_count=7&theme=dracula"/>
 
+<img src="https://i.pinimg.com/736x/14/14/5f/14145f484d5240d8e9127168cdf0a0b1.jpg" alt="logo" height='200' width='200' align="center">
+
 <!---
 T7Rick13/T7Rick13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
