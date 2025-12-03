@@ -23,13 +23,6 @@
 - 💞️ I’m looking to collaborate on ... UX/UI, Networking.
 
 
-
-
-
-
-
-  <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=T7Rick13' alt='Astro Dab'></a>
-
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T7Rick13&layout=compact&langs_count=7&theme=dracula"/>
 
 <span style="margin-left:50%;"><img src="https://i.pinimg.com/736x/14/14/5f/14145f484d5240d8e9127168cdf0a0b1.jpg" alt="logo" height='200' width='200' align="center"></span>
